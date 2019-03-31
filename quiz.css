@@ -1,0 +1,46 @@
+#main-header{
+	height: 100px;
+}
+
+#main-content{
+	background: url('image/stationary.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0 -50px;
+	
+}
+
+.img-style{
+	margin-top: -35px;
+}
+
+.choose-style{
+	margin-bottom:-15px;
+	margin-top:-15px;
+}
+
+.correct-ans{
+	color: rgba(49, 212, 16, 0.925) ;
+	font-size: 20px;
+	margin-bottom: 3px;
+	font-weight: bold;
+}
+
+.wrong-ans{
+	color: rgb(202, 202, 202) ;
+	margin-bottom: 3px;
+}
+
+#body-style{
+	background: url('image/main.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(17, 17, 17, 0.534); 
+	
+}
+
+
+
+
